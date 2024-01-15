@@ -1,2 +1,2 @@
-# Data Science Exercise
-IBM Professional Certificate - Tools for Data Science course project
+Catch-all repository for my data science projects.
+Stay tuned for more!
